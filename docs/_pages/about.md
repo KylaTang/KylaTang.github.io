@@ -20,7 +20,6 @@ Hi, this is Min! I'm a **Product Marketer** with a passion for bridging the gap 
 
 Welcome connect on [LINKEDIN](http://www.linkedin.com/in/kylatang)!
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
 I am always interested in human behaviors, try to know about those patterns and reasons behind that. That leads me to the way of marketing — how people’s behaviors will change when they receive different stimulation, which can be from peers, social status, self-values(and it always relates a lot to their environment too), advertisement ect. 
 
