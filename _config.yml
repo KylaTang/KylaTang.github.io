@@ -22,8 +22,8 @@ title_separator          : "-"
 subtitle                 : "Product Launch | GTM | User Behavior & Growth"
 name                     : "Min Tang"
 description              : "Data-driven Marketing Portfolio"
-url                      : "https://KylaTang.github.io"
-baseurl                  : "/about"
+url                      : "https://kylatang.github.io"
+baseurl                  : ""
 repository               : "/KylaTang/KylaTang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -254,11 +254,9 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
