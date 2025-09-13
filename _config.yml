@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Min Tang Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data-driven Marketer in Tech industry"
 name                     : "Min Tang"
 description              : "Data-driven Marketing Portfolio"
 url                      : "https://KylaTang.github.io"
