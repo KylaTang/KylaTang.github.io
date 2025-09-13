@@ -27,8 +27,6 @@ I am always interested in human behaviors, try to know about those patterns and 
 I have been worked in tech-product’s marketing for 8+ years, and responsible diverse markets globally, from China, Korea, Vietnam, Finland, Poland, UK, NL and so on. Luckily, I have been worked with leading companies in this area, SONY, TCL, HONOR, and BASF, so that I have numerous experience of international projects, from **new** **product launch, campaigns to market expansion and customer growth**.
 
 
-## Notable Features
-
 These experience has shaped me intuition of understanding user needs and bring them back to product development team.And in the digital and data era, user behaviors will no more be red as the same as traditional way. Thus I decided to dive in data.
 
 Currently, I'm pursuing a master's degree to deepen my data analytical skills in Sweden and already finished my first year of intense study. You can find my analysis cases in my webpage:) For the next step, I would love to tangle them with the real world, because real world usually tell a greater story of human. 
