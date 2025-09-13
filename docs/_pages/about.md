@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,28 +12,37 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2025-08-27T11:59:26-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hi, this is Min! I'm a **Product Marketer** with a passion for bridging the gap between product teams and real-world users, and for crafting effective go-to-market strategies.
+
+Welcome connect on [LINKEDIN](http://www.linkedin.com/in/kylatang)!
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+I am always interested in human behaviors, try to know about those patterns and reasons behind that. That leads me to the way of marketing — how people’s behaviors will change when they receive different stimulation, which can be from peers, social status, self-values(and it always relates a lot to their environment too), advertisement ect. 
+
+I have been worked in tech-product’s marketing for 8+ years, and responsible diverse markets globally, from China, Korea, Vietnam, Finland, Poland, UK, NL and so on. Luckily, I have been worked with leading companies in this area, SONY, TCL, HONOR, and BASF, so that I have numerous experience of international projects, from **new** **product launch, campaigns to market expansion and customer growth**.
+
 
 ## Notable Features
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+These experience has shaped me intuition of understanding user needs and bring them back to product development team.And in the digital and data era, user behaviors will no more be red as the same as traditional way. Thus I decided to dive in data.
+
+Currently, I'm pursuing a master's degree to deepen my data analytical skills in Sweden and already finished my first year of intense study. You can find my analysis cases in my webpage:) For the next step, I would love to tangle them with the real world, because real world usually tell a greater story of human. 
+
+Outside of work, I'm curious about exploring new things and taking challenges, so I also like photography and storytelling stuff.
+
+If you’re interested in marketing, tech, photography—or just want to connect—I'd love to hear from you!
+
+![image.png](About%20Me%201f286b87c25d800d9bf4e0d8e167feef/078bfb1c-ac50-4bec-b5d2-f4533c12f41b.png)
+
+
+[The above are some of my photograhy and an English reading audio(Tuesdays with Morrie_Chapter of The Syllabus). Thank you so much for taking time to visit my page!](https://drive.google.com/file/d/16HeFjpZDUt772pJ52b9npKI9SrTtY3wa/view?usp=sharing)
+
+The above are some of my photograhy and an English reading audio(Tuesdays with Morrie_Chapter of The Syllabus). Thank you so much for taking time to visit my page!
 
 ## Demo Pages
 
@@ -62,24 +71,5 @@ For even more demo pages check the [posts archive][year-archive].
 
 ## Credits
 
-### Icons + Demo Images:
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+The page content is created by Min Tang.
