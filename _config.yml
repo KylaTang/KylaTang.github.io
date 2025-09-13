@@ -23,7 +23,7 @@ subtitle                 : "Product Launch | GTM | User Behavior & Growth"
 name                     : "Min Tang"
 description              : "Data-driven Marketing Portfolio"
 url                      : "https://KylaTang.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/about"
 repository               : "/KylaTang/KylaTang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -85,7 +85,6 @@ google:
 google_site_verification :
 bing_site_verification   :
 naver_site_verification  :
-yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
