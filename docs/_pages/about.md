@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "9-year Data x Product Marketer."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -34,7 +34,6 @@ Outside of work, I'm curious about exploring new things and taking challenges, s
 
 If you’re interested in marketing, tech, photography—or just want to connect—I'd love to hear from you!
 
-![image.png](About%20Me%201f286b87c25d800d9bf4e0d8e167feef/078bfb1c-ac50-4bec-b5d2-f4533c12f41b.png)
 
 
 [The above are some of my photograhy and an English reading audio(Tuesdays with Morrie_Chapter of The Syllabus). Thank you so much for taking time to visit my page!](https://drive.google.com/file/d/16HeFjpZDUt772pJ52b9npKI9SrTtY3wa/view?usp=sharing)
